@@ -1,0 +1,39 @@
+.button-wrapper {
+    padding-top: 120px;
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: rgb(69, 201, 131);
+    --bs-tooltip-color: white;
+}
+
+.btn-wrapper {}
+
+.isDisabled {
+    display: none;
+}
+
+#myBirthday {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.form-container {
+    padding-top: 40px;
+    max-width: 300px;
+    margin-inline: auto;
+}
+
+.user-dob-list {
+    padding-top: 40px;
+
+}
+
+.user-dob-list{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.user-dob-title{
+    padding-bottom: 20px;
+}
